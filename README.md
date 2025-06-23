@@ -37,7 +37,7 @@ A lightweight Ubuntu-based Docker container designed for system debugging, proce
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/YOUR-ORG/host-debugger.git
+git clone https://github.com/marcorandall/host-debugger.git
 cd host-debugger
 ```
 
